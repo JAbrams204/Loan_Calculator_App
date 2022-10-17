@@ -4,7 +4,7 @@ The application has three input fields namely: Loan Amount, Interest Rate and Lo
 calculation based on the input values produce the monthly payment amount, total payment amount and the 
 interest rate amount.
 
-Primarily, I have used two JavaScript functions - (calculateResults and showError) to perform any computation requird by 
+Primarily, I have used two JavaScript functions - (calculateResults and showError) to perform any computation required by 
 the Application and to display any exception when computations were impossible due to incorrect information being provided 
 by the user.
 
